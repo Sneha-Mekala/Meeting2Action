@@ -336,6 +336,3 @@ src/evaluation/eval.py
 AI · Data Science · Enterprise Automation
 Meeting-to-Action AI – Kaggle Capstone Project
 2025
-
-or
-**“Continue with video script”**

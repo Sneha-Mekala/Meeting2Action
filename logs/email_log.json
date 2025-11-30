@@ -1,0 +1,158 @@
+[
+  {
+    "to": "We@example.com",
+    "ticket": {
+      "id": "ISSUE-ea0ae860",
+      "summary": "Alice: We will deliver the sales deck by 2025-12-01.",
+      "assignee": "We@example.com",
+      "due": "2025-12-01",
+      "description": "",
+      "created_at": "2025-11-19T18:42:54.008438Z"
+    },
+    "sent_at": "2025-11-19T18:42:54.070433Z"
+  },
+  {
+    "to": "rohit@example.com",
+    "ticket": {
+      "id": "ISSUE-4e019c3a",
+      "summary": "Action: Rohit (rohit@example.com) will prepare the slides.",
+      "assignee": "rohit@example.com",
+      "due": null,
+      "description": "",
+      "created_at": "2025-11-19T18:42:54.038562Z"
+    },
+    "sent_at": "2025-11-19T18:42:54.102348Z"
+  },
+  {
+    "to": "We@example.com",
+    "ticket": {
+      "id": "ISSUE-3d888dbe",
+      "summary": "Alice: We will deliver the sales deck by 2025-12-01.",
+      "assignee": "We@example.com",
+      "due": "2025-12-01",
+      "description": "",
+      "created_at": "2025-11-19T19:05:43.345736Z"
+    },
+    "sent_at": "2025-11-19T19:05:43.412809Z"
+  },
+  {
+    "to": "rohit@example.com",
+    "ticket": {
+      "id": "ISSUE-75f16479",
+      "summary": "Action: Rohit (rohit@example.com) will prepare the slides.",
+      "assignee": "rohit@example.com",
+      "due": null,
+      "description": "",
+      "created_at": "2025-11-19T19:05:43.362843Z"
+    },
+    "sent_at": "2025-11-19T19:05:43.434422Z"
+  },
+  {
+    "to": "We@example.com",
+    "ticket": {
+      "id": "ISSUE-75947765",
+      "summary": "Alice: We will deliver the sales deck by 2025-12-01.",
+      "assignee": "We@example.com",
+      "due": "2025-12-01",
+      "description": "",
+      "created_at": "2025-11-30T06:58:01.143884Z"
+    },
+    "sent_at": "2025-11-30T06:58:01.228697Z"
+  },
+  {
+    "to": "rohit@example.com",
+    "ticket": {
+      "id": "ISSUE-4d697714",
+      "summary": "Action: Rohit (rohit@example.com) will prepare the slides.",
+      "assignee": "rohit@example.com",
+      "due": null,
+      "description": "",
+      "created_at": "2025-11-30T06:58:01.177012Z"
+    },
+    "sent_at": "2025-11-30T06:58:01.239821Z"
+  },
+  {
+    "to": "anu@example.com",
+    "ticket": {
+      "id": "ISSUE-f0d30cb4",
+      "summary": "David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.",
+      "assignee": "anu@example.com",
+      "due": "2025-11-30",
+      "description": "",
+      "created_at": "2025-11-30T06:58:01.206003Z"
+    },
+    "sent_at": "2025-11-30T06:58:01.245350Z"
+  },
+  {
+    "to": "We@example.com",
+    "ticket": {
+      "id": "ISSUE-b0986a9b",
+      "summary": "Alice: We will deliver the sales deck by 2025-12-01.",
+      "assignee": "We@example.com",
+      "due": "2025-12-01",
+      "description": "",
+      "created_at": "2025-11-30T06:59:07.260735Z"
+    },
+    "sent_at": "2025-11-30T06:59:07.369999Z"
+  },
+  {
+    "to": "rohit@example.com",
+    "ticket": {
+      "id": "ISSUE-9dcfd602",
+      "summary": "Action: Rohit (rohit@example.com) will prepare the slides.",
+      "assignee": "rohit@example.com",
+      "due": null,
+      "description": "",
+      "created_at": "2025-11-30T06:59:07.293976Z"
+    },
+    "sent_at": "2025-11-30T06:59:07.394199Z"
+  },
+  {
+    "to": "anu@example.com",
+    "ticket": {
+      "id": "ISSUE-aac413e3",
+      "summary": "David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.",
+      "assignee": "anu@example.com",
+      "due": "2025-11-30",
+      "description": "",
+      "created_at": "2025-11-30T06:59:07.354004Z"
+    },
+    "sent_at": "2025-11-30T06:59:07.414769Z"
+  },
+  {
+    "to": "We@example.com",
+    "ticket": {
+      "id": "ISSUE-ae966a28",
+      "summary": "Alice: We will deliver the sales deck by 2025-12-01.",
+      "assignee": "We@example.com",
+      "due": "2025-12-01",
+      "description": "",
+      "created_at": "2025-11-30T06:59:42.987874Z"
+    },
+    "sent_at": "2025-11-30T06:59:43.059869Z"
+  },
+  {
+    "to": "rohit@example.com",
+    "ticket": {
+      "id": "ISSUE-8e3145ac",
+      "summary": "Action: Rohit (rohit@example.com) will prepare the slides.",
+      "assignee": "rohit@example.com",
+      "due": null,
+      "description": "",
+      "created_at": "2025-11-30T06:59:43.006870Z"
+    },
+    "sent_at": "2025-11-30T06:59:43.074291Z"
+  },
+  {
+    "to": "anu@example.com",
+    "ticket": {
+      "id": "ISSUE-8250fe41",
+      "summary": "David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.",
+      "assignee": "anu@example.com",
+      "due": "2025-11-30",
+      "description": "",
+      "created_at": "2025-11-30T06:59:43.042161Z"
+    },
+    "sent_at": "2025-11-30T06:59:43.099023Z"
+  }
+]

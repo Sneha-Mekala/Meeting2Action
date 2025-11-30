@@ -1,0 +1,40 @@
+Meeting Summary – meeting-1764485982948
+Date: 30 Nov 2025
+
+Summary of Discussion:
+- Alice: We will deliver the sales deck by 2025-12-01.
+- Action: Rohit (rohit@example.com) will prepare the slides.
+- Bob: Please assign someone to check the budget.
+
+Extracted Action Items:
+1. Alice: We will deliver the sales deck by 2025-12-01.
+   Owner: We@example.com
+   Due: 2025-12-01
+
+2. Action: Rohit (rohit@example.com) will prepare the slides.
+   Owner: rohit@example.com
+   Due: Not specified
+
+3. Bob: Please assign someone to check the budget.
+   Owner: Not assigned
+   Due: Not specified
+
+4. Carol: Todo: schedule follow-up meeting next week.
+   Owner: Not assigned
+   Due: 2025-11-30
+
+5. David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.
+   Owner: anu@example.com
+   Due: 2025-11-30
+
+Tasks Created:
+- ISSUE-ae966a28 – Alice: We will deliver the sales deck by 2025-12-01. (Owner: We@example.com; Due: 2025-12-01)
+- ISSUE-8e3145ac – Action: Rohit (rohit@example.com) will prepare the slides. (Owner: rohit@example.com; Due: Not specified)
+- ISSUE-52f83b15 – Bob: Please assign someone to check the budget. (Owner: No owner; Due: Not specified)
+- ISSUE-fce881b7 – Carol: Todo: schedule follow-up meeting next week. (Owner: No owner; Due: 2025-11-30)
+- ISSUE-8250fe41 – David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30. (Owner: anu@example.com; Due: 2025-11-30)
+
+Notifications Sent:
+- Issue ISSUE-ae966a28 -> status: sent
+- Issue ISSUE-8e3145ac -> status: sent
+- Issue ISSUE-8250fe41 -> status: sent

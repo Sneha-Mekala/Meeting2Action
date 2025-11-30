@@ -1,0 +1,30 @@
+[
+  {
+    "meeting_id": "m1",
+    "transcript": "Alice: Action: Rohit (rohit@example.com) will prepare the slides by 2025-12-01.",
+    "actions": [
+      {
+        "task": "Action: Rohit (rohit@example.com) will prepare the slides by 2025-12-01.",
+        "owner": "rohit@example.com",
+        "due": "2025-12-01"
+      }
+    ]
+  },
+
+  {
+    "meeting_id": "m2",
+    "transcript": "Bob: Todo: schedule follow-up meeting next week. Carol: assign Anu to check budget.",
+    "actions": [
+      {
+        "task": "Todo: schedule follow-up meeting next week.",
+        "owner": null,
+        "due": null
+      },
+      {
+        "task": "assign Anu to check budget.",
+        "owner": "Anu@example.com",
+        "due": null
+      }
+    ]
+  }
+]

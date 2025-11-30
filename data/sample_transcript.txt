@@ -1,0 +1,5 @@
+Alice: We will deliver the sales deck by 2025-12-01.
+Action: Rohit (rohit@example.com) will prepare the slides.
+Bob: Please assign someone to check the budget.
+Carol: Todo: schedule follow-up meeting next week.
+David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.

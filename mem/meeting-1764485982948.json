@@ -1,0 +1,36 @@
+{
+  "transcript": "Alice: We will deliver the sales deck by 2025-12-01.\nAction: Rohit (rohit@example.com) will prepare the slides.\nBob: Please assign someone to check the budget.\nCarol: Todo: schedule follow-up meeting next week.\nDavid: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.",
+  "summary": "- Alice: We will deliver the sales deck by 2025-12-01.\n- Action: Rohit (rohit@example.com) will prepare the slides.\n- Bob: Please assign someone to check the budget.",
+  "actions": [
+    {
+      "task": "Alice: We will deliver the sales deck by 2025-12-01.",
+      "owner": "We@example.com",
+      "due": "2025-12-01",
+      "notes": ""
+    },
+    {
+      "task": "Action: Rohit (rohit@example.com) will prepare the slides.",
+      "owner": "rohit@example.com",
+      "due": null,
+      "notes": ""
+    },
+    {
+      "task": "Bob: Please assign someone to check the budget.",
+      "owner": null,
+      "due": null,
+      "notes": ""
+    },
+    {
+      "task": "Carol: Todo: schedule follow-up meeting next week.",
+      "owner": null,
+      "due": "2025-11-30",
+      "notes": ""
+    },
+    {
+      "task": "David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.",
+      "owner": "anu@example.com",
+      "due": "2025-11-30",
+      "notes": ""
+    }
+  ]
+}

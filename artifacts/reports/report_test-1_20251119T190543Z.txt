@@ -1,0 +1,34 @@
+Meeting Summary – test-1
+Date: 19 Nov 2025
+
+Summary of Discussion:
+- Alice: We will deliver the sales deck by 2025-12-01.
+- Action: Rohit (rohit@example.com) will prepare the slides.
+- Bob: Please assign someone to check the budget.
+
+Extracted Action Items:
+1. Alice: We will deliver the sales deck by 2025-12-01.
+   Owner: We@example.com
+   Due: 2025-12-01
+
+2. Action: Rohit (rohit@example.com) will prepare the slides.
+   Owner: rohit@example.com
+   Due: Not specified
+
+3. Bob: Please assign someone to check the budget.
+   Owner: Not assigned
+   Due: Not specified
+
+4. Carol: Todo: follow up next week.
+   Owner: Not assigned
+   Due: 2025-11-19
+
+Tasks Created:
+- ISSUE-3d888dbe – Alice: We will deliver the sales deck by 2025-12-01. (Owner: We@example.com; Due: 2025-12-01)
+- ISSUE-75f16479 – Action: Rohit (rohit@example.com) will prepare the slides. (Owner: rohit@example.com; Due: Not specified)
+- ISSUE-7f58f79b – Bob: Please assign someone to check the budget. (Owner: No owner; Due: Not specified)
+- ISSUE-ec1bd479 – Carol: Todo: follow up next week. (Owner: No owner; Due: 2025-11-19)
+
+Notifications Sent:
+- Issue ISSUE-3d888dbe -> status: sent
+- Issue ISSUE-75f16479 -> status: sent

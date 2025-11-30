@@ -1,0 +1,24 @@
+ticket_id,task,owner,due,created_at
+ISSUE-ea0ae860,Alice: We will deliver the sales deck by 2025-12-01.,We@example.com,2025-12-01,2025-11-19T18:42:54.010445Z
+ISSUE-4e019c3a,Action: Rohit (rohit@example.com) will prepare the slides.,rohit@example.com,,2025-11-19T18:42:54.038562Z
+ISSUE-fcba33ba,Bob: Please assign someone to check the budget.,,,2025-11-19T18:42:54.054302Z
+ISSUE-95f097d3,Carol: Todo: follow up next week.,,2025-11-19,2025-11-19T18:42:54.070433Z
+ISSUE-3d888dbe,Alice: We will deliver the sales deck by 2025-12-01.,We@example.com,2025-12-01,2025-11-19T19:05:43.346710Z
+ISSUE-75f16479,Action: Rohit (rohit@example.com) will prepare the slides.,rohit@example.com,,2025-11-19T19:05:43.363843Z
+ISSUE-7f58f79b,Bob: Please assign someone to check the budget.,,,2025-11-19T19:05:43.379569Z
+ISSUE-ec1bd479,Carol: Todo: follow up next week.,,2025-11-19,2025-11-19T19:05:43.395805Z
+ISSUE-75947765,Alice: We will deliver the sales deck by 2025-12-01.,We@example.com,2025-12-01,2025-11-30T06:58:01.158776Z
+ISSUE-4d697714,Action: Rohit (rohit@example.com) will prepare the slides.,rohit@example.com,,2025-11-30T06:58:01.178022Z
+ISSUE-74f6d1d5,Bob: Please assign someone to check the budget.,,,2025-11-30T06:58:01.190779Z
+ISSUE-9fa38772,Carol: Todo: schedule follow-up meeting next week.,,2025-11-30,2025-11-30T06:58:01.206003Z
+ISSUE-f0d30cb4,David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.,anu@example.com,2025-11-30,2025-11-30T06:58:01.206003Z
+ISSUE-b0986a9b,Alice: We will deliver the sales deck by 2025-12-01.,We@example.com,2025-12-01,2025-11-30T06:59:07.260735Z
+ISSUE-9dcfd602,Action: Rohit (rohit@example.com) will prepare the slides.,rohit@example.com,,2025-11-30T06:59:07.295086Z
+ISSUE-b464c969,Bob: Please assign someone to check the budget.,,,2025-11-30T06:59:07.316017Z
+ISSUE-91229b68,Carol: Todo: schedule follow-up meeting next week.,,2025-11-30,2025-11-30T06:59:07.336997Z
+ISSUE-aac413e3,David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.,anu@example.com,2025-11-30,2025-11-30T06:59:07.354004Z
+ISSUE-ae966a28,Alice: We will deliver the sales deck by 2025-12-01.,We@example.com,2025-12-01,2025-11-30T06:59:42.989874Z
+ISSUE-8e3145ac,Action: Rohit (rohit@example.com) will prepare the slides.,rohit@example.com,,2025-11-30T06:59:43.008875Z
+ISSUE-52f83b15,Bob: Please assign someone to check the budget.,,,2025-11-30T06:59:43.027160Z
+ISSUE-fce881b7,Carol: Todo: schedule follow-up meeting next week.,,2025-11-30,2025-11-30T06:59:43.038160Z
+ISSUE-8250fe41,David: Action: Anu (anu@example.com) to confirm the vendor details by 2025-11-30.,anu@example.com,2025-11-30,2025-11-30T06:59:43.042161Z
